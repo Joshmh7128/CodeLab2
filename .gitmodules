@@ -1,0 +1,6 @@
+[submodule "Personal"]
+	path = Personal
+	url = C:\\Users\\josh-\\Documents\\Unity\\CodeLab2\\Personal
+[submodule "Week1"]
+	path = Week1
+	url = C:\\Users\\josh-\\Documents\\Unity\\CodeLab2\\Week1
